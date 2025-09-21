@@ -1,0 +1,831 @@
+[
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "cat",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "dog",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "laptop",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "bottle",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "book",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "cat",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "dog",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "laptop",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "bottle",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "book",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_3.jpg",
+    "prompt": "cat",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_3.jpg",
+    "prompt": "dog",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_3.jpg",
+    "prompt": "laptop",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.31485965847969055
+    ],
+    "labels": [
+      "laptop"
+    ],
+    "boxes": [
+      [
+        81.51502990722656,
+        61.824893951416016,
+        713.8470458984375,
+        421.9106140136719
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_3.jpg",
+    "prompt": "bottle",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_3.jpg",
+    "prompt": "book",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_4.jpg",
+    "prompt": "cat",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_4.jpg",
+    "prompt": "dog",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_4.jpg",
+    "prompt": "laptop",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.357401043176651
+    ],
+    "labels": [
+      "laptop"
+    ],
+    "boxes": [
+      [
+        132.0109100341797,
+        386.1292419433594,
+        691.423828125,
+        414.1385498046875
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_4.jpg",
+    "prompt": "bottle",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_4.jpg",
+    "prompt": "book",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.31465816497802734
+    ],
+    "labels": [
+      "book"
+    ],
+    "boxes": [
+      [
+        132.42315673828125,
+        386.91436767578125,
+        690.9482421875,
+        414.20587158203125
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_5.jpg",
+    "prompt": "cat",
+    "experiment_type": "baseline",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": []
+  },
+  {
+    "image_path": "test_images/sample_5.jpg",
+    "prompt": "dog",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.32904505729675293
+    ],
+    "labels": [
+      "dog"
+    ],
+    "boxes": [
+      [
+        149.16615295410156,
+        56.599124908447266,
+        634.1063232421875,
+        510.05438232421875
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_5.jpg",
+    "prompt": "laptop",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.38469645380973816
+    ],
+    "labels": [
+      "laptop"
+    ],
+    "boxes": [
+      [
+        148.8292999267578,
+        56.835174560546875,
+        634.6642456054688,
+        510.88031005859375
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_5.jpg",
+    "prompt": "bottle",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3044017255306244
+    ],
+    "labels": [
+      "bottle"
+    ],
+    "boxes": [
+      [
+        149.02105712890625,
+        56.621219635009766,
+        634.373779296875,
+        510.9033203125
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_5.jpg",
+    "prompt": "book",
+    "experiment_type": "baseline",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.35107535123825073
+    ],
+    "labels": [
+      "book"
+    ],
+    "boxes": [
+      [
+        148.55921936035156,
+        57.02730941772461,
+        634.226318359375,
+        510.4018249511719
+      ]
+    ]
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "a cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3386494815349579
+    ],
+    "labels": [
+      "a"
+    ],
+    "boxes": [
+      [
+        224.48106384277344,
+        45.93225860595703,
+        544.4402465820312,
+        400.8197326660156
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "feline",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "kitten",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.34451085329055786
+    ],
+    "labels": [
+      "kitten"
+    ],
+    "boxes": [
+      [
+        225.9021453857422,
+        46.074790954589844,
+        543.3453369140625,
+        399.47796630859375
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "domestic cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.35176312923431396
+    ],
+    "labels": [
+      "domestic"
+    ],
+    "boxes": [
+      [
+        224.66612243652344,
+        46.36582946777344,
+        543.9014892578125,
+        400.76104736328125
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "cat animal",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.30085018277168274
+    ],
+    "labels": [
+      "animal"
+    ],
+    "boxes": [
+      [
+        225.171142578125,
+        46.41691207885742,
+        543.7976684570312,
+        400.6982421875
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "a dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.316407710313797
+    ],
+    "labels": [
+      "a"
+    ],
+    "boxes": [
+      [
+        225.9532928466797,
+        45.878265380859375,
+        544.1856689453125,
+        400.4400939941406
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "canine",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "puppy",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "domestic dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3335402011871338
+    ],
+    "labels": [
+      "domestic"
+    ],
+    "boxes": [
+      [
+        225.51522827148438,
+        46.312870025634766,
+        543.8152465820312,
+        400.1861267089844
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "dog animal",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3175143301486969
+    ],
+    "labels": [
+      "animal"
+    ],
+    "boxes": [
+      [
+        226.77157592773438,
+        46.42131423950195,
+        543.4810791015625,
+        399.6695556640625
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "laptop",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "a laptop",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3753077983856201
+    ],
+    "labels": [
+      "laptop"
+    ],
+    "boxes": [
+      [
+        1.202249526977539,
+        34.180419921875,
+        798.212646484375,
+        531.6380615234375
+      ]
+    ],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "notebook computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_1.jpg",
+    "prompt": "laptop computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3018237054347992
+    ],
+    "labels": [
+      "laptop"
+    ],
+    "boxes": [
+      [
+        1.1031389236450195,
+        30.749624252319336,
+        798.4332885742188,
+        531.244873046875
+      ]
+    ],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "a cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.31390687823295593
+    ],
+    "labels": [
+      "a"
+    ],
+    "boxes": [
+      [
+        239.1834716796875,
+        336.4535217285156,
+        593.5154418945312,
+        1127.29345703125
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "feline",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "kitten",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.34732377529144287
+    ],
+    "labels": [
+      "kitten"
+    ],
+    "boxes": [
+      [
+        240.70196533203125,
+        336.5062561035156,
+        591.543701171875,
+        1126.942626953125
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "domestic cat",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.4160500764846802
+    ],
+    "labels": [
+      "domestic"
+    ],
+    "boxes": [
+      [
+        238.77415466308594,
+        336.47509765625,
+        591.8717041015625,
+        1126.781494140625
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "cat animal",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.5109581351280212
+    ],
+    "labels": [
+      "cat animal"
+    ],
+    "boxes": [
+      [
+        240.63470458984375,
+        336.3963623046875,
+        591.75634765625,
+        1126.55615234375
+      ]
+    ],
+    "base_object": "cat"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "a dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.35020509362220764
+    ],
+    "labels": [
+      "a dog"
+    ],
+    "boxes": [
+      [
+        237.6009979248047,
+        336.5322570800781,
+        594.1939086914062,
+        1127.41357421875
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "canine",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.3763555586338043
+    ],
+    "labels": [
+      "canine"
+    ],
+    "boxes": [
+      [
+        237.97593688964844,
+        336.416748046875,
+        592.9251098632812,
+        1127.0716552734375
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "puppy",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "domestic dog",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.40829795598983765
+    ],
+    "labels": [
+      "domestic dog"
+    ],
+    "boxes": [
+      [
+        236.8690948486328,
+        336.73297119140625,
+        592.3126831054688,
+        1127.38720703125
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "dog animal",
+    "experiment_type": "prompt_variability",
+    "num_detections": 1,
+    "confidence_scores": [
+      0.4851287603378296
+    ],
+    "labels": [
+      "dog animal"
+    ],
+    "boxes": [
+      [
+        240.2301788330078,
+        336.4279479980469,
+        591.1207885742188,
+        1127.12646484375
+      ]
+    ],
+    "base_object": "dog"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "laptop",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "a laptop",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "notebook computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  },
+  {
+    "image_path": "test_images/sample_2.jpg",
+    "prompt": "laptop computer",
+    "experiment_type": "prompt_variability",
+    "num_detections": 0,
+    "confidence_scores": [],
+    "labels": [],
+    "boxes": [],
+    "base_object": "laptop"
+  }
+]
